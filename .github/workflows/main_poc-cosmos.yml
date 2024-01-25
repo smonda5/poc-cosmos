@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'poc-cosmos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4318C46C83B4C06B1DB458C5D232418 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FE5CF98AD0F46638EDCB0FA4B0A418A }}
           package: .
